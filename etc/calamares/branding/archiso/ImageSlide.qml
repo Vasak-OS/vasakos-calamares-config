@@ -38,11 +38,11 @@ Item {
      */
     property string notes;
 
-
     /* This is the important property for *ImageSlide*: the path to the
      * image to display. When instantiating *ImageSlide*, set this for
      * each instance. Relative paths are ok.
      */
+
     property string src;
 
     /* The image itself. It has fixed sizes (300x150px). You could set
@@ -54,6 +54,7 @@ Item {
      * height configurable, add a property above and then bind to
      * them from the Image element.
      */
+
     Image {
         id: image
         source: src

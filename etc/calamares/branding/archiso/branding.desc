@@ -122,8 +122,8 @@ navigation: widget
 strings:
     productName:         Archiso
     shortProductName:    Archiso
-    version:             71-1
-    shortVersion:        2023.07.06
+    version:             72-1
+    shortVersion:        2023.09.01
     versionedName:       Archiso
     shortVersionedName:  Archiso
     bootloaderEntryName: Generic
@@ -174,9 +174,9 @@ images:
 # branding component also ships a stylesheet.qss. Then they are
 # the corresponding CSS attributes of #sidebarApp.
 style:
-   sidebarBackground:      "#FFFFFF"
-   sidebarText:                     "#292F34"
-   sidebarTextSelect:          "#ffffff"
+   sidebarBackground:       "#FFFFFF"
+   sidebarText:             "#292F34"
+   sidebarTextSelect:       "#ffffff"
    sidebarTextHighlight:    "#2093d1"
 
 ### SLIDESHOW

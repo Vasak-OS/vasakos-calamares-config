@@ -117,20 +117,4 @@ Presentation
         src: "Slide08.png"
     }
 
-    ImageSlide {
-        src: "Slide09.png"
-    }
-
-    ImageSlide {
-        src: "Slide10.png"
-    }
-
-    ImageSlide {
-        src: "Slide11.png"
-    }
-
-    ImageSlide {
-        src: "Slide12.png"
-    }
-
 }
