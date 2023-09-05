@@ -1,12 +1,7 @@
-/* === This file is part of Calamares Extensions - <http://github.com/calamares-extensions> ===
- *
- * SPDX-FileCopyrightText: 2021 Adriaan de Groot <groot@kde.org>
- * SPDX-License-Identifier: BSD-2-Clause
- */
 
 
-import QtQuick 2.0  // Basic QML
-import calamares.slideshow 1.0  // Calamares slideshow: Presentation
+import QtQuick 2.0;
+import calamares.slideshow 1.0;
 import io.calamares.ui 1.0  // Calamares internals: Branding
 
 Presentation
@@ -14,7 +9,7 @@ Presentation
     id: presentation
 
     Timer {
-        interval: 15000
+        interval: 5000
         running: presentation.activatedInCalamares
         repeat: true
         onTriggered: presentation.goToNextSlide()
