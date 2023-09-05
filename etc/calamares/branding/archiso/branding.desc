@@ -15,7 +15,7 @@ sidebar: widget
 
 navigation: widget
 
-atrings:
+strings:
     productName:         Archiso
     shortProductName:    Archiso
     version:             72-1
