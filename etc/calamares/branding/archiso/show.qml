@@ -26,7 +26,7 @@ Presentation
     Rectangle {
         id: mybackground
         anchors.fill: parent
-        color: color: transparent
+        color: transparent
         z: -1
     }
 
