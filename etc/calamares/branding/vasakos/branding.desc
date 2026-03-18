@@ -1,5 +1,5 @@
 ---
-componentName:  archiso
+componentName:  vasakos
 
 welcomeStyleCalamares:   false
 
@@ -16,12 +16,12 @@ sidebar: widget
 navigation: widget
 
 strings:
-    productName:         Archiso
-    shortProductName:    Archiso
+    productName:         VasakOS
+    shortProductName:    Vasak
     version:             72-1
     shortVersion:        2023.09.01
-    versionedName:       Archiso
-    shortVersionedName:  Archiso
+    versionedName:       Open Alpha
+    shortVersionedName:  Alpha
     bootloaderEntryName: Generic
 
 images:
@@ -30,10 +30,10 @@ images:
     productWelcome:         "idioma.png"
 
 style:
-   sidebarBackground:       "#FFFFFF"
-   sidebarText:             "#292F34"
-   sidebarTextSelect:       "#ffffff"
-   sidebarTextHighlight:    "#2093d1"
+   sidebarBackground:       "#1E1E2E"
+   sidebarText:             "#CDD6F4"
+   sidebarTextSelect:       "#CBA6F7"
+   sidebarTextHighlight:    "#EBA0AC"
 
 slideshow:               "show.qml"
 
