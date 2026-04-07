@@ -1,28 +1,26 @@
 ---
 componentName:  vasakos
-
 welcomeStyleCalamares:   false
-
 welcomeExpandingLogo:   true
-
-windowExpanding:    noexpand
-
+windowExpanding:    normal
 windowSize: 1050px,700px
-
 windowPlacement: center
-
 sidebar: widget
-
 navigation: widget
 
 strings:
     productName:         VasakOS
     shortProductName:    Vasak
-    version:             72-1
-    shortVersion:        2023.09.01
-    versionedName:       Open Alpha
-    shortVersionedName:  Alpha
-    bootloaderEntryName: Generic
+    version:             2026.04
+    shortVersion:        VasakOS
+    versionedName:       VasakOS Open Alpha (2026.04)
+    shortVersionedName:  VasakOS Alpha
+    bootloaderEntryName: VasakOS
+    productUrl:          https://os.vasak.net.ar/
+    supportUrl:          https://t.me/VasakOS
+    knownIssuesUrl:      https://github.com/orgs/Vasak-OS/projects/1
+    releaseNotesUrl:     https://os.vasak.net.ar/changelogs/
+    donateUrl:           https://os.vasak.net.ar/donate/
 
 images:
     productIcon:            "logo.png"
@@ -30,10 +28,10 @@ images:
     productWelcome:         "idioma.png"
 
 style:
-   sidebarBackground:       "#1E1E2E"
-   sidebarText:             "#CDD6F4"
-   sidebarTextSelect:       "#CBA6F7"
-   sidebarTextHighlight:    "#EBA0AC"
+   sidebarBackground:       "#eff1f5"
+   sidebarText:             "#4c4f69"
+   sidebarTextSelect:       "#8839ef"
+   sidebarTextHighlight:    "#dd7878"
 
 slideshow:               "show.qml"
 
